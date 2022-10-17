@@ -1,2 +1,2 @@
-# SegerPhotography
- Alexa-Rae-Photography
+# Seger-Photo
+ Alexa Seger Photography
