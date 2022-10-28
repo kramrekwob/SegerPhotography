@@ -108,7 +108,7 @@ input, select, textarea {
 	}
 
 	html, body {
-		background-color: #101010;
+		background-color: rgb(255, 255, 255);
 		overflow: hidden;
 	}
 
@@ -251,7 +251,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #ccc;
+		border-bottom: solid 1px rgb(255, 255, 255)c;
 		margin: 1.25em 0;
 	}
 
@@ -967,7 +967,7 @@ input, select, textarea {
 		#thumbnails article {
 			position: relative;
 			width: 50%;
-			background: #101010;
+			background: white;
 			outline: 0;
 		}
 
